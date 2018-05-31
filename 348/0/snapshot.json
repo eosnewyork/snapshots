@@ -7,10 +7,10 @@
 	},
 	"accounts": {
 		"valid": 175739,
-		"registered": 119771,
-		"registered_included_percent": "68.15277200848986%",
-		"fallback": 55968,
-		"fallback_included_percent": "31.847227991510135%"
+		"registered": 119857,
+		"registered_included_percent": "68.20170821502342%",
+		"fallback": 55884,
+		"fallback_included_percent": "31.79942983629132%"
 	},
 	"supply": {
 		"total": 1000000000.1574,
@@ -22,33 +22,33 @@
 	},
 	"meta": {
 		"author": "Anonymous",
-		"timestamp_started": 1527770191,
-		"timestamp_completed": 1527770722,
-		"total_time": "8m 51s"
+		"timestamp_started": 1527780919,
+		"timestamp_completed": 1527791339,
+		"total_time": "2h 53m 40s"
 	},
 	"checksum": {
 		"output": {
-			"snapshot": "803f87d40f64a57f005a0a9cc60be27fb5454dfd",
+			"snapshot": "7a5e49c57c999dedad71aebda777858cbae495f4",
 			"snapshot_unregistered": "1b3f3cd7ec50b8d712805858bf643ecd5bfad8ac",
 			"distribution": "5b4dae1adf376f9348e39ac9af8e5cabca86f621"
 		},
 		"db": {
-			"wallets": "f0a4347ad291d4672694cb418b961ceea684f704",
+			"wallets": "a6f3c6a666f16ce6acf0ac4a2bcd031db25e89b6",
 			"buys": "8a6b5c5656c30cffbcc78237abbe4c67d4c257b1",
 			"claims": "970e44188f7f7a91c0272ee5c833d12efd256b3a",
-			"registrations": "c84231a01298b93ebc11d1d7e9bf5977348597e6",
+			"registrations": "df081b94d61b2945b616e69b34f8a156403d3d5b",
 			"transfers": "f8ab6c8cd9551584db51ba70157a0b343b6398ac",
-			"snapshot": "c002120c59034353aa6d75aefd86b86cccd783ee",
+			"snapshot": "c54baf2b79843bc883242c016a4ba1ff8404f9af",
 			"public_keys": "b19fcc6985bbaefdc5bb4f645e54a7348cfa5002"
 		}
 	},
 	"stats": {
 		"contract": {
-			"buys": 0,
-			"claims": 0,
-			"reclaimables": 0,
-			"registrations": 0,
-			"transfers": 0
+			"buys": 232149,
+			"claims": 633557,
+			"reclaimables": 917,
+			"registrations": 210562,
+			"transfers": 3486817
 		}
 	},
 	"config": {
@@ -56,14 +56,11 @@
 		"author": "Anonymous",
 		"snapshot_minimum_balance": 1,
 		"overwrite_snapshot": true,
-		"recalculate_wallets": false,
+		"recalculate_wallets": true,
 		"skip_web3_sync": false,
 		"include_b1": true,
 		"load_config": true,
-		"poll": true,
-		"resume": true,
-		"verbose_mt": true,
-		"recalculate-wallets": true
+		"poll": true
 	},
 	"block_range": {
 		"begin": 3904416,

@@ -1,5 +1,5 @@
 {
-	"version": "0.4.0-stable",
+	"version": "0.4.2-stable",
 	"parameters": {
 		"period": 348,
 		"block_begin": 3904416,
@@ -22,18 +22,18 @@
 	},
 	"meta": {
 		"author": "Anonymous",
-		"timestamp_started": 1527728401,
-		"timestamp_completed": 1527730278,
-		"total_time": "31m 17s"
+		"timestamp_started": 1527770191,
+		"timestamp_completed": 1527770722,
+		"total_time": "8m 51s"
 	},
 	"checksum": {
 		"output": {
 			"snapshot": "803f87d40f64a57f005a0a9cc60be27fb5454dfd",
-			"snapshot_unregistered": "50d5c0ab4a4928602cc293f15a550338ebacca79",
-			"distribution": "666f1a0de05c58320cf52c2db425a4a064427e86"
+			"snapshot_unregistered": "1b3f3cd7ec50b8d712805858bf643ecd5bfad8ac",
+			"distribution": "5b4dae1adf376f9348e39ac9af8e5cabca86f621"
 		},
 		"db": {
-			"wallets": "6aa7a0358c965c96a6784befd9e966067362e129",
+			"wallets": "f0a4347ad291d4672694cb418b961ceea684f704",
 			"buys": "8a6b5c5656c30cffbcc78237abbe4c67d4c257b1",
 			"claims": "970e44188f7f7a91c0272ee5c833d12efd256b3a",
 			"registrations": "c84231a01298b93ebc11d1d7e9bf5977348597e6",
@@ -44,11 +44,11 @@
 	},
 	"stats": {
 		"contract": {
-			"buys": 232149,
-			"claims": 633557,
-			"reclaimables": 917,
-			"registrations": 210562,
-			"transfers": 3486817
+			"buys": 0,
+			"claims": 0,
+			"reclaimables": 0,
+			"registrations": 0,
+			"transfers": 0
 		}
 	},
 	"config": {

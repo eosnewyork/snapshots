@@ -1,0 +1,75 @@
+{
+	"version": "0.4.5",
+	"parameters": {
+		"period": 349,
+		"block_begin": 3904416,
+		"block_end": 5710963
+	},
+	"accounts": {
+		"valid": 163295,
+		"registered": 124972,
+		"registered_included_percent": "76.53143084601489%",
+		"fallback": 38324,
+		"fallback_included_percent": "23.469181542606936%"
+	},
+	"supply": {
+		"total": 1000000000.1499,
+		"expected": 998000000,
+		"included": 984890545.1865,
+		"percent_included": "98%",
+		"liquid": 998000000.1486,
+		"margin_of_error": "-0.0000000148897796%"
+	},
+	"meta": {
+		"author": "Anonymous",
+		"timestamp_started": 1527818840,
+		"timestamp_completed": 1527829822,
+		"total_time": "3h 3m 2s"
+	},
+	"checksum": {
+		"output": {
+			"snapshot": "0b7d4e11ee5ecd8af1910c2b0001388fde62dc2a",
+			"snapshot_unregistered": "4a00a7e5edde83ccda1f06d135c1f22b0f4bacd4",
+			"distribution": "090f27fdee1496dcf568a743002979c05f4894cc"
+		},
+		"db": {
+			"wallets": "ec28ef8c7ab05fefad754650cbdd706b2d88a1e5",
+			"buys": "4a4ac84b5a778a6c731998bd5f8178a316bee6ff",
+			"claims": "2b7d72cacb7e546b0c9a6578e01cb5db47d0efd6",
+			"registrations": "ad8c2060a0648464cd5f2d5ebbd31e9bd56fd088",
+			"reclaimables": "716a1627574a803f855ac118980b0a1471053f0a",
+			"transfers": "300f26a699363396d10c2f319e6356a7f9d6dcc2",
+			"snapshot": "9879abde3f3f4d792b8693b3bd27de5669b64b29",
+			"public_keys": "be9ffc20576955fbd459ab129a9341956efdf01a"
+		}
+	},
+	"stats": {
+		"contract": {
+			"buys": 233085,
+			"claims": 634493,
+			"reclaimables": 953,
+			"registrations": 219157,
+			"transfers": 3542927
+		}
+	},
+	"config": {
+		"period": 349,
+		"author": "Anonymous",
+		"snapshot_minimum_balance": 1,
+		"overwrite_snapshot": true,
+		"recalculate_wallets": false,
+		"skip_web3_sync": false,
+		"include_b1": true,
+		"load_config": true,
+		"verbose_mt": true
+	},
+	"block_range": {
+		"begin": 3904416,
+		"end": 5710963
+	},
+	"distribution_status": {
+		"crowdsale_over": false,
+		"tokens_frozen": 0
+	},
+	"public_keys": 26580478
+}

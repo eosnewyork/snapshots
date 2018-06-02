@@ -1,0 +1,78 @@
+{
+	"version": "0.4.4",
+	"parameters": {
+		"period": 350,
+		"block_begin": 3904416,
+		"block_end": 5721761
+	},
+	"accounts": {
+		"valid": 165344,
+		"registered": 1,
+		"registered_included_percent": "0.0006047996903425586%",
+		"fallback": 165343,
+		"fallback_included_percent": "99.99939520030966%"
+	},
+	"supply": {
+		"total": 1000000000.1505,
+		"expected": 1000000000,
+		"included": 994073194.5193,
+		"percent_included": "99%",
+		"liquid": 1000000000.1518,
+		"margin_of_error": "-0.0000000151800000%"
+	},
+	"meta": {
+		"author": "Anonymous",
+		"timestamp_started": 1527980536,
+		"timestamp_completed": 1527981078,
+		"total_time": "9m 2s"
+	},
+	"checksum": {
+		"output": {
+			"snapshot": "2113e535d01a068a3160afeaddacd426f74f6aae",
+			"snapshot_unregistered": "afeb353e09a7ab2aab69332d70e3184afa9a3f81",
+			"distribution": "c7a6ff3266a0d0c3075251f7587551635acbf81f"
+		},
+		"db": {
+			"wallets": "f288286bc35310584a7553d677a3ed5c2fdf9ffb",
+			"buys": "0bf90a6da5e0af9877b3fddac6376f584b14c783",
+			"claims": "03118e561e4f995aac75d690cb8b21aeffe816d0",
+			"registrations": "eb3f97abe445a2be8c97eeb4abde89877840c8fd",
+			"reclaimables": "84e645e973ec674597cc83c4f3bc903616f624e7",
+			"transfers": "9a4a8e5dcb34dc6cda3ea9b0ced6dafdbda1ff7b",
+			"snapshot": "22a4222e141d69eb3a9dc507dda1029b68044bd1",
+			"public_keys": "5ae3813001af9a7a4ee11ad9e627bf79da503ffb"
+		}
+	},
+	"stats": {
+		"contract": {
+			"buys": 234215,
+			"claims": 636975,
+			"reclaimables": 996,
+			"registrations": 230681,
+			"transfers": 3570224
+		}
+	},
+	"config": {
+		"period": 350,
+		"author": "Anonymous",
+		"snapshot_minimum_balance": 1,
+		"overwrite_snapshot": true,
+		"recalculate_wallets": false,
+		"skip_web3_sync": false,
+		"include_b1": true,
+		"load_config": true,
+		"poll": true,
+		"resume": true,
+		"verbose_mt": true
+	},
+	"block_range": {
+		"begin": 3904416,
+		"end": 5721761
+	},
+	"distribution_status": {
+		"crowdsale_over": true,
+		"tokens_frozen": 1,
+		"tokens_freeze_block": 5721761
+	},
+	"public_keys": 26726340
+}

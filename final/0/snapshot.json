@@ -1,55 +1,55 @@
 {
-	"version": "0.4.4",
+	"version": "0.4.6",
 	"parameters": {
 		"period": 350,
 		"block_begin": 3904416,
 		"block_end": 5721761
 	},
 	"accounts": {
-		"valid": 165344,
-		"registered": 1,
-		"registered_included_percent": "0.0006047996903425586%",
-		"fallback": 165343,
-		"fallback_included_percent": "99.99939520030966%"
+		"valid": 163930,
+		"registered": 132192,
+		"registered_included_percent": "80.63929726102604%",
+		"fallback": 31739,
+		"fallback_included_percent": "19.361312755444395%"
 	},
 	"supply": {
-		"total": 1000000000.1505,
+		"total": 1000000000.1533,
 		"expected": 1000000000,
-		"included": 994073194.5193,
+		"included": 996690678.8329,
 		"percent_included": "99%",
-		"liquid": 1000000000.1518,
-		"margin_of_error": "-0.0000000151800000%"
+		"liquid": 1000000000.1537,
+		"margin_of_error": "-0.0000000153700000%"
 	},
 	"meta": {
 		"author": "Anonymous",
-		"timestamp_started": 1527980536,
-		"timestamp_completed": 1527981078,
-		"total_time": "9m 2s"
+		"timestamp_started": 1527992323,
+		"timestamp_completed": 1528000204,
+		"total_time": "2h 11m 21s"
 	},
 	"checksum": {
 		"output": {
-			"snapshot": "2113e535d01a068a3160afeaddacd426f74f6aae",
-			"snapshot_unregistered": "afeb353e09a7ab2aab69332d70e3184afa9a3f81",
-			"distribution": "c7a6ff3266a0d0c3075251f7587551635acbf81f"
+			"snapshot": "c564dea1ebd79d28f21b8ffd259d00b2774eea05",
+			"snapshot_unregistered": "b16500745225e8f2b18e0254dca3dfbbc324eedf",
+			"distribution": "49e2b56a633d3343d4592768bb3d8496e8a69679"
 		},
 		"db": {
-			"wallets": "f288286bc35310584a7553d677a3ed5c2fdf9ffb",
+			"wallets": "9687e925f8e020c821d679f3f9e1d6cb126693d3",
 			"buys": "0bf90a6da5e0af9877b3fddac6376f584b14c783",
 			"claims": "03118e561e4f995aac75d690cb8b21aeffe816d0",
 			"registrations": "eb3f97abe445a2be8c97eeb4abde89877840c8fd",
 			"reclaimables": "84e645e973ec674597cc83c4f3bc903616f624e7",
 			"transfers": "9a4a8e5dcb34dc6cda3ea9b0ced6dafdbda1ff7b",
-			"snapshot": "22a4222e141d69eb3a9dc507dda1029b68044bd1",
+			"snapshot": "6280e5ea36feabbd8fcd85a3f74aa22e7af10a2c",
 			"public_keys": "5ae3813001af9a7a4ee11ad9e627bf79da503ffb"
 		}
 	},
 	"stats": {
 		"contract": {
-			"buys": 234215,
-			"claims": 636975,
-			"reclaimables": 996,
-			"registrations": 230681,
-			"transfers": 3570224
+			"buys": 0,
+			"claims": 0,
+			"reclaimables": 0,
+			"registrations": 0,
+			"transfers": 0
 		}
 	},
 	"config": {
@@ -57,7 +57,7 @@
 		"author": "Anonymous",
 		"snapshot_minimum_balance": 1,
 		"overwrite_snapshot": true,
-		"recalculate_wallets": false,
+		"recalculate_wallets": true,
 		"skip_web3_sync": false,
 		"include_b1": true,
 		"load_config": true,

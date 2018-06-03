@@ -1,0 +1,78 @@
+{
+	"version": "0.4.4",
+	"parameters": {
+		"period": 350,
+		"block_begin": 3904416,
+		"block_end": 5721761
+	},
+	"accounts": {
+		"valid": 163914,
+		"registered": 1,
+		"registered_included_percent": "0.0006100760154715277%",
+		"fallback": 163913,
+		"fallback_included_percent": "99.99938992398452%"
+	},
+	"supply": {
+		"total": 1000000000.1533,
+		"expected": 1000000000,
+		"included": 994076198.0326,
+		"percent_included": "99%",
+		"liquid": 1000000000.1537,
+		"margin_of_error": "-0.0000000153700000%"
+	},
+	"meta": {
+		"author": "Anonymous",
+		"timestamp_started": 1527982720,
+		"timestamp_completed": 1527991528,
+		"total_time": "2h 26m 48s"
+	},
+	"checksum": {
+		"output": {
+			"snapshot": "02c6c701a2f41803a02a20771d6c853925bdf59d",
+			"snapshot_unregistered": "e3cdbf51717f2cf7cb3d7d5a6708ef5ef7ed9567",
+			"distribution": "49e2b56a633d3343d4592768bb3d8496e8a69679"
+		},
+		"db": {
+			"wallets": "98d03c1cd4eead8d6a32ce1f791c8305a966e888",
+			"buys": "0bf90a6da5e0af9877b3fddac6376f584b14c783",
+			"claims": "03118e561e4f995aac75d690cb8b21aeffe816d0",
+			"registrations": "eb3f97abe445a2be8c97eeb4abde89877840c8fd",
+			"reclaimables": "84e645e973ec674597cc83c4f3bc903616f624e7",
+			"transfers": "9a4a8e5dcb34dc6cda3ea9b0ced6dafdbda1ff7b",
+			"snapshot": "91dc0c3e0892b08e22e9bbb34ec2805acbd1d218",
+			"public_keys": "5ae3813001af9a7a4ee11ad9e627bf79da503ffb"
+		}
+	},
+	"stats": {
+		"contract": {
+			"buys": 0,
+			"claims": 0,
+			"reclaimables": 0,
+			"registrations": 0,
+			"transfers": 0
+		}
+	},
+	"config": {
+		"period": 350,
+		"author": "Anonymous",
+		"snapshot_minimum_balance": 1,
+		"overwrite_snapshot": true,
+		"recalculate_wallets": true,
+		"skip_web3_sync": false,
+		"include_b1": true,
+		"load_config": true,
+		"poll": true,
+		"resume": true,
+		"verbose_mt": true
+	},
+	"block_range": {
+		"begin": 3904416,
+		"end": 5721761
+	},
+	"distribution_status": {
+		"crowdsale_over": true,
+		"tokens_frozen": 1,
+		"tokens_freeze_block": 5721761
+	},
+	"public_keys": 26726340
+}
